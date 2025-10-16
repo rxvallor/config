@@ -1,6 +1,6 @@
 {
   "env": {
-    "ANTHROPIC_API_KEY": "226e9446d3d3483c8653def54825fd53.Sqi4K8uTdLDYwP1n",
+    "ANTHROPIC_API_KEY": "ss",
     "ANTHROPIC_BASE_URL": "https://api.z.ai/api/anthropic",
     "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.5-air",
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-4.6",
